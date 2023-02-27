@@ -1,14 +1,24 @@
 .q1{
     background-color: #030313;
     padding-top: 20px;
+
 }
 .btn{
-    padding: 10px 25px;
+    padding: 8px 35px;
     background-image: linear-gradient(to right, #5986FF 46%, #A834FF 95%);
     color: white;
+    margin-right: 30px;
 }
 .nav-link{
     color: white;
     font-weight: 700;
+    font-size: 18px;
 
+}
+.navbar-nav{
+    margin-left: 130px;
+}
+.navbar{
+    border-bottom: 3px solid #353542;
+    padding-bottom: 10px;
 }
