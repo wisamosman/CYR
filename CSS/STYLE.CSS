@@ -25,15 +25,38 @@
 .q6{
     color: #616161;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 45px;
 }
 .q7{
     font-weight: 700;
-    font-size: 40px;
+    font-size: 45px;
     color: #518DFE;
 }
 .q8{
-    font-weight: 700;
-    font-size: 40px;
+    font-weight: 600;
+    font-size: 45px;
     color: #B625FE;
+}
+.q9{
+
+margin-left: 123px;
+}
+.q10{
+    color: white;
+    font-weight: 600;
+}
+.q12{
+    padding: 15px 40px;
+    background-image: linear-gradient(to right, #5986FF 46%, #A834FF 95%);
+    color: white;
+    font-weight: 700;
+}
+.q13{
+    padding: 15px 40px;
+    background-color: #13030d;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid  #A834FF;
+    font-weight: 700;
+    margin-left: -45px;
 }
