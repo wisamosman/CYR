@@ -1,3 +1,14 @@
 .q1{
     background-color: #030313;
+    padding-top: 20px;
+}
+.btn{
+    padding: 10px 25px;
+    background-image: linear-gradient(to right, #5986FF 46%, #A834FF 95%);
+    color: white;
+}
+.nav-link{
+    color: white;
+    font-weight: 700;
+
 }
